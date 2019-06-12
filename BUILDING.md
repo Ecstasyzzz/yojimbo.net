@@ -21,7 +21,7 @@ First, download and install [premake 5](https://premake.github.io/download.html)
 
 Now go to the command line under the yojimbo.net directory and enter:
 
-    premake5 gmake
+    premake5 solution
 
 This creates yojimbo.sln for you.
 
